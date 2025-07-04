@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1713518033 source:c:\users\kanak\onedrive\desktop\mygraphics\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<graphics.h>
+
+1713518101 source:c:\users\kanak\onedrive\desktop\mygraphics\no.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713518165 source:c:\users\kanak\onedrive\desktop\mygraphics\myprojrct.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<graphics.h>
+
